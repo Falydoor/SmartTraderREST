@@ -3,3 +3,6 @@
 /Projets Dev
 /.classpath
 /.project
+/pom.xml
+
+/.project/src/main/resources/hibernate.cfg.xml
